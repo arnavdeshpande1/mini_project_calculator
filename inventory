@@ -1,5 +1,3 @@
 [ubuntu18]
-192.168.1.2 ansible_user=vaibhav
+192.168.127.237 ansible_user=arnav
 
-[docker]
-172.17.0.2 ansible_ssh_pass=vaibhav@123 ansible_ssh_user=vaibhav
