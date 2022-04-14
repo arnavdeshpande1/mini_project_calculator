@@ -20,7 +20,7 @@ public class Calculator {
             System.out.println("Enter 1 to find Square root of number");
             System.out.println("Enter 2 to find Factorial of a number");
             System.out.println("Enter 3 to find Natural logarithm of a number");
-            System.out.println("Enter 4 to find Power of Function");
+            System.out.println("Enter 4 to find Power of a Number");
             int choice;
             try {
                 choice = scanner.nextInt();
