@@ -21,6 +21,7 @@ public class Calculator {
             System.out.println("Enter 2 to find Factorial of a number");
             System.out.println("Enter 3 to find Natural logarithm of a number");
             System.out.println("Enter 4 to find Power of Number");
+            System.out.println("Enter 5 to exit");
             int choice;
             try {
                 choice = scanner.nextInt();
